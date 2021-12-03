@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7b679fda0229197469ddfc39bc8b0244
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - anim: {instanceID: 0}
+  - effect_Pos: {instanceID: 0}
+  - CoinPrefab: {instanceID: 0}
+  - Hpbar: {instanceID: 0}
+  - DamageText_SpawnPoint: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  - BossState: {instanceID: 0}
+  - bossHpbar: {instanceID: 0}
+  - bossName: {instanceID: 0}
+  - hpText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 0c6d28c5cda3c814c84926f6603d2876
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2029590388200007857
+    second: Boss_skill_Smash_0
+  - first:
+      213: 4618725482204130973
+    second: Boss_skill_Smash_1
+  - first:
+      213: 257315335106093944
+    second: Boss_skill_Smash_2
+  - first:
+      213: 660323357351795120
+    second: Boss_skill_Smash_3
+  - first:
+      213: -4729014657008409220
+    second: Boss_skill_Smash_4
+  - first:
+      213: 2590022438156095213
+    second: Boss_skill_Smash_5
+  - first:
+      213: 2298559997817342700
+    second: Boss_skill_Smash_6
+  - first:
+      213: -5944653298112586359
+    second: Boss_skill_Smash_7
+  - first:
+      213: -3740635309191362848
+    second: Boss_skill_Smash_8
+  - first:
+      213: -3232910687381729089
+    second: Boss_skill_Smash_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_skill_Smash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 168
+        height: 127
+      alignment: 9
+      pivot: {x: 0.6610987, y: 0.1021911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8653074bd8a2c10800000000000000
+      internalID: 2029590388200007857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_skill_Smash_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 254
+        width: 168
+        height: 127
+      alignment: 9
+      pivot: {x: 0.6610987, y: 0.1021911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e62d1ea52091040800000000000000
+      internalID: 4618725482204130973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_skill_Smash_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 254
+        width: 168
+        height: 127
+      alignment: 9
+      pivot: {x: 0.6610987, y: 0.1021911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87362481fea229300800000000000000
+      internalID: 257315335106093944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_skill_Smash_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 254
+        width: 168
+        height: 127
+      alignment: 9
+      pivot: {x: 0.6610987, y: 0.1021911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9d8df4890f92900800000000000000
+      internalID: 660323357351795120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_skill_Smash_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 168
+        height: 127
+      alignment: 9
+      pivot: {x: 0.6610987, y: 0.1021911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75e56f893a2f5eb0800000000000000
+      internalID: -4729014657008409220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_skill_Smash_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 128
+        width: 168
+        height: 127
+      alignment: 9
+      pivot: {x: 0.6610987, y: 0.1021911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deec59a5fab91f320800000000000000
+      internalID: 2590022438156095213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_skill_Smash_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 127
+        width: 168
+        height: 127
+      alignment: 9
+      pivot: {x: 0.6610987, y: 0.1021911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea43d4c32026ef10800000000000000
+      internalID: 2298559997817342700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_skill_Smash_7
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 127
+        width: 168
+        height: 127
+      alignment: 9
+      pivot: {x: 0.6610987, y: 0.1021911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d152d4259508da0800000000000000
+      internalID: -5944653298112586359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_skill_Smash_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 168
+        height: 127
+      alignment: 9
+      pivot: {x: 0.6610987, y: 0.1021911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e68d594108961cc0800000000000000
+      internalID: -3740635309191362848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_skill_Smash_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 168
+        height: 127
+      alignment: 9
+      pivot: {x: 0.6610987, y: 0.1021911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb05c08cbd46223d0800000000000000
+      internalID: -3232910687381729089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

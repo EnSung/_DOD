@@ -1,0 +1,26 @@
+{
+  "40001": {
+    "Name": "거대나무",
+    "Hp": "100",
+    "Power": "20",
+    "Speed": "3",
+    "AttackDistance": "1",
+    "AttackDelay": "3",
+    "AddScore": "1",
+    "AddCoin": "10",
+    "CoinAmount": "3",
+    "SkillDelay": "6"
+  },
+  "40002": {
+    "Name": "고블린챔피언",
+    "Hp": "200",
+    "Power": "30",
+    "Speed": "5",
+    "AttackDistance": "0.6",
+    "AttackDelay": "2",
+    "AddScore": "1",
+    "AddCoin": "10",
+    "CoinAmount": "3",
+    "SkillDelay": "6"
+  }
+}

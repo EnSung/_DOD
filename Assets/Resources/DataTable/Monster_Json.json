@@ -1,0 +1,112 @@
+{
+  "20001": {
+    "Name": "빨강슬라임",
+    "Hp": "10",
+    "Power": "6",
+    "Speed": "5",
+    "AttackDelay": "2",
+    "AttackDistance": "0.6",
+    "AddScore": "1",
+    "AddCoin": "1",
+    "CoinAmount": "3"
+  },
+  "20002": {
+    "Name": "초록슬라임",
+    "Hp": "15",
+    "Power": "3",
+    "Speed": "5",
+    "AttackDelay": "2",
+    "AttackDistance": "1",
+    "AddScore": "1",
+    "AddCoin": "1",
+    "CoinAmount": "3"
+  },
+  "20003": {
+    "Name": "하늘슬라임",
+    "Hp": "10",
+    "Power": "3",
+    "Speed": "7",
+    "AttackDelay": "2",
+    "AttackDistance": "0.6",
+    "AddScore": "1",
+    "AddCoin": "1",
+    "CoinAmount": "3"
+  },
+  "20004": {
+    "Name": "보라슬라임",
+    "Hp": "10",
+    "Power": "3",
+    "Speed": "5",
+    "AttackDelay": "3",
+    "AttackDistance": "0.6",
+    "AddScore": "1",
+    "AddCoin": "1",
+    "CoinAmount": "3"
+  },
+  "20005": {
+    "Name": "검정슬라임",
+    "Hp": "15",
+    "Power": "6",
+    "Speed": "7",
+    "AttackDelay": "3",
+    "AttackDistance": "1",
+    "AddScore": "2",
+    "AddCoin": "2",
+    "CoinAmount": "3"
+  },
+  "20006": {
+    "Name": "고블린",
+    "Hp": "15",
+    "Power": "5",
+    "Speed": "7",
+    "AttackDelay": "2",
+    "AttackDistance": "0.6",
+    "AddScore": "1",
+    "AddCoin": "2",
+    "CoinAmount": "3"
+  },
+  "20007": {
+    "Name": "단검고블린",
+    "Hp": "15",
+    "Power": "6",
+    "Speed": "8",
+    "AttackDelay": "3",
+    "AttackDistance": "0.6",
+    "AddScore": "1",
+    "AddCoin": "2",
+    "CoinAmount": "3"
+  },
+  "20008": {
+    "Name": "다트고블린",
+    "Hp": "10",
+    "Power": "2",
+    "Speed": "7",
+    "AttackDelay": "5",
+    "AttackDistance": "3",
+    "AddScore": "1",
+    "AddCoin": "3",
+    "CoinAmount": "3"
+  },
+  "20009": {
+    "Name": "샤먼고블린",
+    "Hp": "10",
+    "Power": "7",
+    "Speed": "4",
+    "AttackDelay": "1",
+    "AttackDistance": "3",
+    "AddScore": "3",
+    "AddCoin": "3",
+    "CoinAmount": "3"
+  },
+  "20010": {
+    "Name": "큰고블린",
+    "Hp": "30",
+    "Power": "8",
+    "Speed": "3",
+    "AttackDelay": "2",
+    "AttackDistance": "0.6",
+    "AddScore": "10",
+    "AddCoin": "10",
+    "CoinAmount": "3"
+  }
+}
